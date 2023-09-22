@@ -1,0 +1,6 @@
+16/09/2023 07:34:08 - Inicio do programa
+16/09/2023 07:34:08 - Carrinho de livros criado
+16/09/2023 07:34:08 - LivroBrinde criado
+16/09/2023 07:36:31 - Inicio do programa
+16/09/2023 07:36:31 - Carrinho de livros criado
+16/09/2023 07:36:31 - LivroBrinde criado

@@ -1,0 +1,70 @@
+20/09/2023 21:44:17 - Início da aplicação
+20/09/2023 21:44:17 - CarrinhoCompra criado
+20/09/2023 21:44:17 - LivroBrinde criado
+20/09/2023 21:44:17 - LivroBrinde adicionado ao carrinho
+20/09/2023 21:44:17 - LivroFisico criado
+20/09/2023 21:44:17 - LivroFisico adicionado ao carrinho
+20/09/2023 21:44:17 - LivroDigital criado
+20/09/2023 21:44:17 - LivroDigital adicionado ao carrinho
+20/09/2023 21:44:17 - Falha na inclusão de páginas
+20/09/2023 21:44:17 - Programa encerrado
+20/09/2023 21:44:43 - Início da aplicação
+20/09/2023 21:44:43 - CarrinhoCompra criado
+20/09/2023 21:44:43 - LivroBrinde criado
+20/09/2023 21:44:43 - LivroBrinde adicionado ao carrinho
+20/09/2023 21:44:43 - LivroFisico criado
+20/09/2023 21:44:43 - LivroFisico adicionado ao carrinho
+20/09/2023 21:44:43 - LivroDigital criado
+20/09/2023 21:44:43 - LivroDigital adicionado ao carrinho
+20/09/2023 21:44:43 - Falha na inclusão de páginas
+20/09/2023 21:44:43 - Programa encerrado
+20/09/2023 21:45:10 - Início da aplicação
+20/09/2023 21:45:10 - CarrinhoCompra criado
+20/09/2023 21:45:10 - LivroBrinde criado
+20/09/2023 21:45:10 - LivroBrinde adicionado ao carrinho
+20/09/2023 21:45:10 - LivroFisico criado
+20/09/2023 21:45:10 - LivroFisico adicionado ao carrinho
+20/09/2023 21:45:10 - LivroDigital criado
+20/09/2023 21:45:10 - LivroDigital adicionado ao carrinho
+20/09/2023 21:45:10 - Falha na inclusão de páginas
+20/09/2023 21:45:10 - Programa encerrado
+20/09/2023 21:47:41 - Início da aplicação
+20/09/2023 21:47:41 - CarrinhoCompra criado
+20/09/2023 21:47:41 - LivroBrinde criado
+20/09/2023 21:47:41 - LivroBrinde adicionado ao carrinho
+20/09/2023 21:47:41 - LivroFisico criado
+20/09/2023 21:47:41 - LivroFisico adicionado ao carrinho
+20/09/2023 21:47:41 - LivroDigital criado
+20/09/2023 21:47:41 - LivroDigital adicionado ao carrinho
+20/09/2023 21:47:41 - Falha na inclusão de páginas
+20/09/2023 21:47:41 - Programa encerrado
+20/09/2023 21:51:11 - Início da aplicação
+20/09/2023 21:51:58 - CarrinhoCompra criado
+20/09/2023 21:52:19 - LivroBrinde criado
+20/09/2023 21:52:25 - LivroBrinde adicionado ao carrinho
+20/09/2023 21:52:25 - LivroFisico criado
+20/09/2023 21:52:25 - LivroFisico adicionado ao carrinho
+20/09/2023 21:52:25 - LivroDigital criado
+20/09/2023 21:52:25 - LivroDigital adicionado ao carrinho
+20/09/2023 21:52:25 - Falha na inclusão de páginas
+20/09/2023 21:52:25 - Programa encerrado
+20/09/2023 21:52:43 - Início da aplicação
+20/09/2023 21:53:08 - CarrinhoCompra criado
+20/09/2023 21:53:16 - LivroBrinde criado
+20/09/2023 21:53:35 - LivroBrinde adicionado ao carrinho
+20/09/2023 21:53:42 - LivroFisico criado
+20/09/2023 21:54:04 - LivroFisico adicionado ao carrinho
+20/09/2023 21:54:04 - LivroDigital criado
+20/09/2023 21:54:04 - LivroDigital adicionado ao carrinho
+20/09/2023 21:54:04 - Falha na inclusão de páginas
+20/09/2023 21:54:04 - Programa encerrado
+20/09/2023 21:54:22 - Início da aplicação
+20/09/2023 21:54:22 - CarrinhoCompra criado
+20/09/2023 21:54:22 - LivroBrinde criado
+20/09/2023 21:54:22 - LivroBrinde adicionado ao carrinho
+20/09/2023 21:54:22 - LivroFisico criado
+20/09/2023 21:55:11 - LivroFisico adicionado ao carrinho
+20/09/2023 21:55:22 - LivroDigital criado
+20/09/2023 21:55:25 - LivroDigital adicionado ao carrinho
+20/09/2023 21:55:25 - Falha na inclusão de páginas
+20/09/2023 21:55:25 - Programa encerrado
